@@ -1,0 +1,4 @@
+#Wed Nov 28 09:07:18 BDT 2018
+base.0=C\:\\Users\\SZM\\Desktop\\MusicPlayer-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
